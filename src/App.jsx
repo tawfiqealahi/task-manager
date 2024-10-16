@@ -4,7 +4,7 @@ import AddTask from './AddTask/AddTask'
 import './App.css'
 import TaskList from './Task/TaskList'
 
-let nextId =3;
+let nextId =2;
 const initialTasks=[
   {id:0,text:'get up at 6am',done:true},
   {id:1,text:'take breakfast at 7 am',done:false},
