@@ -3,7 +3,7 @@ import './AddTask.css';
 const AddTask = () => {
     return (
         <div>
-            AddTask
+            <h1>add task</h1>
         </div>
     );
 };
